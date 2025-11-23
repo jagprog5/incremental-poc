@@ -1,3 +1,5 @@
+Edit: notify has a watch limit. fanotify is an option. todo
+
 # Incremental Agent
 
 Suppose a file system is being scanned on some interval. Since the scan is
